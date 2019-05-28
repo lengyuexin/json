@@ -14,3 +14,5 @@
 
 * goods.json ---商品数据列表，来自京东
 
+* story.json -- 古风短篇
+
