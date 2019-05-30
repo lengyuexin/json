@@ -16,3 +16,4 @@
 
 * story.json -- 古风短篇
 
+* study.json--学习资源
