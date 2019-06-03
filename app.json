@@ -61,7 +61,7 @@
           "sellCount": 229,
           "rating": 100,
           "info": "一碗皮蛋瘦肉粥，总是我到粥店时的不二之选。香浓软滑，饱腹暖心，皮蛋的Q弹与瘦肉的滑嫩伴着粥香溢于满口，让人喝这样的一碗粥也觉得心满意足",
-          "ratings": [
+          "comments": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
@@ -94,7 +94,7 @@
           "description": "",
           "sellCount": 188,
           "rating": 96,
-          "ratings": [
+          "comments": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
@@ -129,7 +129,7 @@
           "sellCount": 124,
           "rating": 85,
           "info": "",
-          "ratings": [
+          "comments": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
@@ -163,7 +163,7 @@
           "sellCount": 114,
           "rating": 91,
           "info": "",
-          "ratings": [
+          "comments": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
@@ -197,7 +197,7 @@
           "sellCount": 101,
           "rating": 78,
           "info": "",
-          "ratings": [
+          "comments": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
@@ -230,7 +230,7 @@
           "description": "甜粥",
           "sellCount": 91,
           "rating": 100,
-          "ratings": [
+          "comments": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
@@ -264,7 +264,7 @@
           "sellCount": 86,
           "rating": 100,
           "info": "",
-          "ratings": [
+          "comments": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
@@ -298,7 +298,7 @@
           "sellCount": 84,
           "rating": 100,
           "info": "",
-          "ratings": [
+          "comments": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
@@ -332,7 +332,7 @@
           "sellCount": 81,
           "rating": 91,
           "info": "",
-          "ratings": [
+          "comments": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
@@ -366,7 +366,7 @@
           "sellCount": 80,
           "rating": 93,
           "info": "",
-          "ratings": [
+          "comments": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
@@ -406,7 +406,7 @@
           "sellCount": 17,
           "rating": 100,
           "info": "",
-          "ratings": [
+          "comments": [
             {
               "username": "2******3",
               "rateTime": 1469271264000,
@@ -432,7 +432,7 @@
           "sellCount": 15,
           "rating": 100,
           "info": "",
-          "ratings": [
+          "comments": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
@@ -465,7 +465,7 @@
           "sellCount": 43,
           "rating": 92,
           "info": "",
-          "ratings": [
+          "comments": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
@@ -492,7 +492,7 @@
           "sellCount": 29,
           "rating": 100,
           "info": "",
-          "ratings": [
+          "comments": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
@@ -519,7 +519,7 @@
           "sellCount": 15,
           "rating": 100,
           "info": "",
-          "ratings": [
+          "comments": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
@@ -552,7 +552,7 @@
           "sellCount": 84,
           "rating": 100,
           "info": "",
-          "ratings": [
+          "comments": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
@@ -586,7 +586,7 @@
           "sellCount": 28,
           "rating": 100,
           "info": "",
-          "ratings": [
+          "comments": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
@@ -626,7 +626,7 @@
           "sellCount": 3,
           "rating": 100,
           "info": "",
-          "ratings": [
+          "comments": [
             {
               "username": "2******3",
               "rateTime": 1469271264000,
@@ -646,7 +646,7 @@
           "sellCount": 12,
           "rating": 100,
           "info": "",
-          "ratings": [
+          "comments": [
             {
               "username": "2******3",
               "rateTime": 1469271264000,
@@ -672,7 +672,7 @@
           "sellCount": 1,
           "rating": "",
           "info": "",
-          "ratings": [],
+          "comments": [],
           "icon": "http://fuss10.elemecdn.com/b/5f/b3b04c259d5ec9fa52e1856ee50dajpeg.jpeg?imageView2/1/w/114/h/114",
           "image": "http://fuss10.elemecdn.com/b/5f/b3b04c259d5ec9fa52e1856ee50dajpeg.jpeg?imageView2/1/w/750/h/750"
         },
@@ -684,7 +684,7 @@
           "sellCount": 7,
           "rating": 100,
           "info": "",
-          "ratings": [
+          "comments": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
@@ -718,7 +718,7 @@
           "sellCount": 15,
           "rating": 100,
           "info": "",
-          "ratings": [
+          "comments": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
@@ -751,7 +751,7 @@
           "sellCount": 188,
           "rating": 96,
           "info": "",
-          "ratings": [
+          "comments": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
@@ -785,7 +785,7 @@
           "sellCount": 124,
           "rating": 85,
           "info": "",
-          "ratings": [
+          "comments": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
@@ -819,7 +819,7 @@
           "sellCount": 114,
           "rating": 91,
           "info": "",
-          "ratings": [
+          "comments": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
@@ -853,7 +853,7 @@
           "sellCount": 101,
           "rating": 78,
           "info": "",
-          "ratings": [
+          "comments": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
@@ -887,7 +887,7 @@
           "sellCount": 80,
           "rating": 93,
           "info": "",
-          "ratings": [
+          "comments": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
@@ -926,7 +926,7 @@
           "description": "咸粥",
           "sellCount": 229,
           "rating": 100,
-          "ratings": [
+          "comments": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
@@ -960,7 +960,7 @@
           "sellCount": 91,
           "rating": 100,
           "info": "",
-          "ratings": [
+          "comments": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
@@ -994,7 +994,7 @@
           "sellCount": 86,
           "rating": 100,
           "info": "",
-          "ratings": [
+          "comments": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
@@ -1028,7 +1028,7 @@
           "sellCount": 81,
           "rating": 91,
           "info": "",
-          "ratings": [
+          "comments": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
@@ -1062,7 +1062,7 @@
           "sellCount": 56,
           "rating": 100,
           "info": "",
-          "ratings": [
+          "comments": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
@@ -1095,7 +1095,7 @@
           "sellCount": 33,
           "rating": 100,
           "info": "",
-          "ratings": [
+          "comments": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
@@ -1124,7 +1124,7 @@
       ]
     }
   ],
-  "ratings": [
+  "comments": [
     {
       "username": "3******c",
       "rateTime": 1469281964000,
