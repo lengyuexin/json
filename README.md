@@ -7,7 +7,9 @@
 
 * [joke.json    ---笑话](https://lengyuexin.github.io/json/joke.json)
 
-* [music.json  -网易云音乐接口](https://lengyuexin.github.io/json/music.json)
+* [music.json  -网易云音乐静态数据接口](https://lengyuexin.github.io/json/music.json)
+
+* [网易云音乐接口文档](https://blog.csdn.net/qq_42813491/article/details/88544975)
 
 * [slide.json  --轮播图](https://lengyuexin.github.io/json/slide.json)
 
