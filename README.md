@@ -26,3 +26,5 @@
 * [jianshu/list.json 简书文章列表](https://lengyuexin.github.io/json/jianshu/list.json)
 
 * [jianshu/detail.json 简书文章详情](https://lengyuexin.github.io/json/jianshu/detail.json)
+
+* [kugou数据接口](https://lengyuexin.github.io/json/kugou.json)
