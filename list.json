@@ -1,0 +1,12 @@
+[
+    {
+        "src":"http://127.0.0.1:9000/img/tempZone/02.jpg",
+        "size":"28kb",
+        "name":"02.jpg"
+    },
+    {
+        "src":"http://127.0.0.1:9000/img/tempZone/01.png",
+        "size":"24kb",
+        "name":"01.png"
+    }
+]
